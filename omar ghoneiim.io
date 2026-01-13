@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Omar Ghoneim – Cybersecurity Expert & Software Developer</title>
+
+  <meta name="description" content="Omar Ghoneim is a cybersecurity specialist and ethical hacker with experience in penetration testing, vulnerability analysis, and secure software development.">
+  <meta name="keywords" content="Omar Ghoneim, Cybersecurity, Ethical Hacker, Penetration Testing, Software Developer">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Google Verification -->
+  <meta name="google-site-verification" content="m-N9q3nclQnVuF9OL3enjoTeUGEV7Ua424DzhZeO77U" />
+</head>
+<body style="font-family: Arial; background:#0f172a; color:white; padding:40px;">
+
+  <h1>Omar Ghoneim</h1>
+  <h2>Cybersecurity Specialist & Software Developer</h2>
+
+  <p>
+    I am Omar Ghoneim, a cybersecurity specialist and ethical hacker with a strong
+    background in system security, vulnerability analysis, and penetration testing.
+    I also work as a software developer focused on building secure and efficient applications.
+  </p>
+
+  <p>
+    My goal is to protect systems, secure data, and develop modern software
+    using the latest technologies and security best practices.
+  </p>
+
+</body>
+</html>
